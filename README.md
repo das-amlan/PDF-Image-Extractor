@@ -2,6 +2,8 @@
 
 This repository contains the Streamlit-based version of the **PDF Image Extractor**. It allows users to upload PDF files, extract images from them, and display the extracted images directly in the web application.
 
+App link: [PDF Image Extractor](https://pdfimageextractor.streamlit.app/)
+
 ![Streamlit Demo](pdfImage.png) 
 
 ## Features
